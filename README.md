@@ -5,9 +5,9 @@ I developed my skills at Hack Reactor, where I mastered building scalable and ef
 
 When I’m not coding, I enjoy walking my dogs on the beach, playing bass and acoustic guitar, and training in boxing and Aikido.
 
-Front-end: JavaScript (ES6+) | React | HTML5 | CSS3 | Babel | Git |
-Back-end: NodeJs | Express | MongoDB | MySQL | PostgreSQL |
-Deployment/Testing: Docker |
+Front-end: JavaScript (ES6+) | React | HTML5 | CSS3 | Babel | Git |  
+Back-end: NodeJs | Express | MongoDB | MySQL | PostgreSQL |  
+Deployment/Testing: Docker |  
 
 # 💻 Tech Stack:
 ![NextJs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
