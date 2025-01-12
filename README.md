@@ -1,9 +1,9 @@
 # ✨ About Me:
-Hi there! I’m a passionate software engineer who focuses on building efficient, scalable, and user-friendly products. As an engineer, working in teams has been a great experience in designing products that can benefit others.
+Hi there! I’m a passionate software engineer who focuses on building efficient, scalable, and user-friendly products. Working in teams has been a great experience as an engineer in designing products that can benefit others.
 
-I developed my skills at Hack Reactor, where I mastered building scalable and efficient web applications. My journey there led me to a role at TradeAlgo, where I continued to grow as a developer. When creating the Front-End I focus on crafting user-engaging, interactive web experiences that are visually appealing and intuitive. In terms of back-end development, I focus on designing efficient, scalable systems that power seamless front-end interactions.
+I developed my skills at Hack Reactor, where I mastered building scalable and efficient web applications. My journey there led me to a role at TradeAlgo, where I continued to grow as a developer. When creating the Front-End I focus on crafting user-engaging, interactive web experiences that are visually appealing and intuitive. Regarding back-end development, I focus on designing efficient, scalable systems that power seamless front-end interactions.
 
-When I’m not coding, I enjoy walking my dogs on the beach, playing bass and acoustic guitar, and training in boxing and Aikido.
+When not coding, I enjoy walking my dogs on the beach, playing bass and acoustic guitar, and training in Boxing and Aikido.
 
 Front-end: JavaScript (ES6+) | React | HTML5 | CSS3 | Babel | Git |  
 Back-end: NodeJs | Express | MongoDB | MySQL | PostgreSQL |  
